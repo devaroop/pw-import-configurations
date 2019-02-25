@@ -46,4 +46,4 @@ This repository contains standardized import configurations for PW.
 * [Fintro](https://github.com/devaroop/pw-import-configurations/blob/master/be/fintro/default.json)
 
 ### India
-* [HDFC](https://raw.githubusercontent.com/devaroop/pw-import-configurations/master/in/hdfc/default.json)
+* [HDFC](https://raw.githubusercontent.com/devaroop/pw-import-configurations/master/in/hdfc/savings_bank.json)
