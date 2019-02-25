@@ -1,0 +1,53 @@
+{
+    "has-headers": true,
+    "date-format": "d-m-y",
+    "delimiter": ",",
+    "import-account": 4,
+    "specifics": [],
+    "column-count": 7,
+    "column-roles": [
+        "date-transaction",
+        "opposing-name",
+        "date-book",
+        "amount_debit",
+        "amount_credit",
+        "external-id",
+        "amount",
+        "account-name",
+        "_ignore",
+        "opposing-name",
+        "_ignore",
+        "budget-name",
+        "_ignore",
+        "category-name"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": {
+        "3": [],
+        "7": [],
+        "9": [],
+        "11": [],
+        "13": []
+    },
+    "column-mapping-complete": false,
+    "apply_rules": true,
+    "match_bills": true,
+    "file-type": "csv",
+    "apply-rules": false
+}
